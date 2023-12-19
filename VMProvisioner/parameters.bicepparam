@@ -60,6 +60,3 @@ param authenticationType = 'password'
 
 @description('Enter admin username on the Virtual Machines(s).')
 param adminUsername = 'azureuser'
-
-@description('Enter admin password the Virtual Machine(s).')
-param adminPasswordOrKey = 'OllinTestiPassu1!'
